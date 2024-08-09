@@ -1,0 +1,16 @@
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\bin\Debug\net8.0\Entities.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\bin\Debug\net8.0\Entities.pdb
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Repositories\obj\Debug\net8.0\ref\Repositories.dll

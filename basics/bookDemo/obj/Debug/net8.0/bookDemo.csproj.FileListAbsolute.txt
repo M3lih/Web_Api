@@ -35,3 +35,4 @@ D:\DOSYAM\KOD\NetCore\WebApi\basics\bookDemo\bin\Debug\net8.0\Microsoft.AspNetCo
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bookDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bookDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bookDemo\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bookDemo\obj\Debug\net8.0\bookDemo.sourcelink.json

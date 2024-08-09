@@ -1,0 +1,12 @@
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\bin\Debug\net8.0\Entities.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\bin\Debug\net8.0\Entities.pdb
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entities.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entities.pdb
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\ref\Entities.dll
