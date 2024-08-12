@@ -150,3 +150,5 @@ D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\Presentat
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\NLog.dll
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
