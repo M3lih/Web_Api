@@ -2100,6 +2100,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.JsonPatch": "8.0.7",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.7",
           "Services": "1.0.0"
         },
         "compile": {
@@ -5543,7 +5544,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Entities >= 1.0.0",
-      "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 8.0.7",
       "Microsoft.EntityFrameworkCore >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.7",
@@ -5617,10 +5617,6 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
-            "target": "Package",
-            "version": "[8.0.7, )"
-          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.7, )"

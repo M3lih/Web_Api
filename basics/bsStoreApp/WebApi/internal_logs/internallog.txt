@@ -58,3 +58,27 @@
 2024-08-13 02:01:14.6489 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
 2024-08-13 02:01:14.6646 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
 2024-08-13 02:01:14.6868 Info Configuration initialized.
+2024-08-13 15:05:45.1891 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 15:05:45.2020 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 15:05:45.2020 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-13 15:05:45.2189 Info Configuration initialized.
+2024-08-13 15:13:09.5967 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 15:13:09.6093 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 15:13:09.6093 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-13 15:13:09.6251 Info Configuration initialized.
+2024-08-13 15:15:42.3854 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 15:15:42.3854 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 15:15:42.4049 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-13 15:15:42.4049 Info Configuration initialized.
+2024-08-13 15:25:23.7098 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 15:25:23.7227 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 15:25:23.7300 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-13 15:25:23.7300 Info Configuration initialized.
+2024-08-13 15:26:47.9758 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 15:26:47.9918 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 15:26:47.9992 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-13 15:26:48.0090 Info Configuration initialized.
+2024-08-13 15:49:10.7893 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 15:49:10.8018 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 15:49:10.8091 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-13 15:49:10.8091 Info Configuration initialized.

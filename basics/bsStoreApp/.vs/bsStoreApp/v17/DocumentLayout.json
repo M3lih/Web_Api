@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38DB45F0-5C10-49ED-9383-3A8E1813CFA2}|Presentation\\Presentation.csproj|d:\\dosyam\\kod\\netcore\\webapi\\basics\\bsstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DB45F0-5C10-49ED-9383-3A8E1813CFA2}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F49F9-42E9-40B8-9854-B0A6DAF04EC9}|Services\\Services.csproj|d:\\dosyam\\kod\\netcore\\webapi\\basics\\bsstoreapp\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F49F9-42E9-40B8-9854-B0A6DAF04EC9}|Services\\Services.csproj|solutionrelative:services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F49F9-42E9-40B8-9854-B0A6DAF04EC9}|Services\\Services.csproj|d:\\dosyam\\kod\\netcore\\webapi\\basics\\bsstoreapp\\services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F49F9-42E9-40B8-9854-B0A6DAF04EC9}|Services\\Services.csproj|solutionrelative:services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E6373E-B3F7-48B5-A6E1-74437DF578FD}|WebApi\\WebApi.csproj|d:\\dosyam\\kod\\netcore\\webapi\\basics\\bsstoreapp\\webapi\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E6373E-B3F7-48B5-A6E1-74437DF578FD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E6373E-B3F7-48B5-A6E1-74437DF578FD}|WebApi\\WebApi.csproj|d:\\dosyam\\kod\\netcore\\webapi\\basics\\bsstoreapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E6373E-B3F7-48B5-A6E1-74437DF578FD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:40:36.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\Services\\BookManager.cs",
+              "RelativeDocumentMoniker": "Services\\BookManager.cs",
+              "ToolTip": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\Services\\BookManager.cs",
+              "RelativeToolTip": "Services\\BookManager.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA0wEsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:38:45.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\Services\\Contracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IBookService.cs",
+              "ToolTip": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\Services\\Contracts\\IBookService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:37:17.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:10:56.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwGMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:54:09.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
