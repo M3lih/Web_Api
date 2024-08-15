@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OD2QWFDmNoA=",
+  "dgSpecHash": "Q7U5vgWweFs=",
   "success": true,
   "projectFilePath": "D:\\DOSYAM\\KOD\\NetCore\\WebApi\\basics\\bsStoreApp\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,8 @@
     "C:\\Users\\melih\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\melih\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\melih\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "C:\\Users\\melih\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\melih\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\melih\\.nuget\\packages\\system.linq.dynamic.core\\1.4.4\\system.linq.dynamic.core.1.4.4.nupkg.sha512"
   ],
   "logs": []
 }
