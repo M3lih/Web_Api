@@ -22,6 +22,8 @@ namespace Entities.RequestFeatures
         }
 
         public String? OrderBy { get; set; }
-    
+
+        public string? Fields { get; set; }
+
     }
 }
