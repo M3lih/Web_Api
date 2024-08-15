@@ -134,3 +134,15 @@
 2024-08-15 16:13:53.2836 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
 2024-08-15 16:13:53.2989 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
 2024-08-15 16:13:53.3141 Info Configuration initialized.
+2024-08-15 21:39:09.0357 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-15 21:39:09.0739 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-15 21:39:09.0739 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-15 21:39:09.1087 Info Configuration initialized.
+2024-08-15 21:41:23.3395 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-15 21:41:23.3564 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-15 21:41:23.3564 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-15 21:41:23.3783 Info Configuration initialized.
+2024-08-15 21:41:33.5211 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-15 21:41:33.5500 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-15 21:41:33.5648 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-15 21:41:33.5819 Info Configuration initialized.
