@@ -232,3 +232,31 @@
 2024-08-21 18:43:48.5240 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
 2024-08-21 18:43:48.5415 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
 2024-08-21 18:43:48.5843 Info Configuration initialized.
+2024-08-22 00:05:10.0617 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-22 00:05:10.0899 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-22 00:05:10.0899 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-22 00:05:10.1148 Info Configuration initialized.
+2024-08-22 00:09:50.0225 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-22 00:09:50.0609 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-22 00:09:50.0955 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-22 00:09:50.1124 Info Configuration initialized.
+2024-08-22 00:15:19.8205 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-22 00:15:19.8709 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-22 00:15:19.8993 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-22 00:15:19.9216 Info Configuration initialized.
+2024-08-22 00:23:13.0578 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-22 00:23:13.0944 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-22 00:23:13.1169 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-22 00:23:13.1400 Info Configuration initialized.
+2024-08-22 00:26:03.5152 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-22 00:26:03.5477 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-22 00:26:03.5606 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-22 00:26:03.5777 Info Configuration initialized.
+2024-08-22 00:31:27.6326 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-22 00:31:27.6705 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-22 00:31:27.6864 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-22 00:31:27.7032 Info Configuration initialized.
+2024-08-22 00:32:05.6575 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-22 00:32:05.6913 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-22 00:32:05.7039 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\nlog.config
+2024-08-22 00:32:05.7194 Info Configuration initialized.

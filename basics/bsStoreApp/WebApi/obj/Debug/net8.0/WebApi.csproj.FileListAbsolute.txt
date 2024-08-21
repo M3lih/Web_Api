@@ -154,3 +154,4 @@ D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\AutoMappe
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\WebApi\bin\Debug\net8.0\Marvin.Cache.Headers.dll
