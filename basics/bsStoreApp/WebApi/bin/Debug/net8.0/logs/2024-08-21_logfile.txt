@@ -1,0 +1,5 @@
+2024-08-21 16:05:06.1484 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetBooksOptions","Id":null,"CreateAt":"2024-08-21T13:05:06.1219905Z"}
+2024-08-21 16:05:55.5599 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetBooksOptions","Id":null,"CreateAt":"2024-08-21T13:05:55.5598677Z"}
+2024-08-21 16:10:15.6533 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-08-21T13:10:15.6327571Z"}
+2024-08-21 16:11:05.7434 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-08-21T13:11:05.7434242Z"}
+2024-08-21 16:11:42.4700 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-08-21T13:11:42.4700356Z"}
