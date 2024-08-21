@@ -10,3 +10,4 @@ D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entitie
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\refint\Entities.dll
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entities.pdb
 D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\ref\Entities.dll
+D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
