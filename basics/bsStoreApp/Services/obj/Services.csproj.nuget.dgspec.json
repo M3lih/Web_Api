@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.AspNetCore.Mvc.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -127,7 +131,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.8, )"
             },
             "System.Linq.Dynamic.Core": {
               "target": "Package",
@@ -214,6 +218,10 @@
             "NLog.Extensions.Logging": {
               "target": "Package",
               "version": "[5.3.11, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
