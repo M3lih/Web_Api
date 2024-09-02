@@ -17,24 +17,30 @@ namespace Services
 {
     public class BookManager : IBookService
     {
+        private readonly ICategoryService _categoryService;
         private readonly IRepositoryManager _manager;
         private readonly ILoggerService _logger;
         private readonly IMapper _mapper;
         private readonly IBookLinks _bookLinks;
 
-        public BookManager(IRepositoryManager manager, 
-            ILoggerService logger, 
-            IMapper mapper, 
-            IBookLinks bookLinks)
+        public BookManager(IRepositoryManager manager,
+            ILoggerService logger,
+            IMapper mapper,
+            IBookLinks bookLinks,
+            ICategoryService categoryService)
         {
             _manager = manager;
             _logger = logger;
             _mapper = mapper;
             _bookLinks = bookLinks;
+            _categoryService = categoryService;
         }
 
         public async Task<BookDto> CreateOneBookAsync(BookDtoForInsertion bookDto)
         {
+            var category = await _categoryService
+                .GetOneCategoryByIdAsync(bookDto.CategoryId,false);
+
             var entity = _mapper.Map<Book>(bookDto);
             _manager.Book.CreateOneBook(entity);
             await _manager.SaveAsync();
@@ -48,11 +54,11 @@ namespace Services
             await _manager.SaveAsync();
         }
 
-        public async Task<(LinkResponse linkResponse, MetaData metaData)> 
-            GetAllBooksAsync(LinkParameters linkParameters, 
+        public async Task<(LinkResponse linkResponse, MetaData metaData)>
+            GetAllBooksAsync(LinkParameters linkParameters,
             bool trackChanges)
         {
-            if(!linkParameters.BookParameters.ValidPriceRange) 
+            if (!linkParameters.BookParameters.ValidPriceRange)
                 throw new PriceOutOfRangeBadRequestException();
 
             var booksWithMetaData = await _manager
@@ -64,7 +70,7 @@ namespace Services
                 linkParameters.BookParameters.Fields,
                 linkParameters.HttpContext);
 
-            return (linkResponse: links, metaData :  booksWithMetaData.MetaData);
+            return (linkResponse: links, metaData: booksWithMetaData.MetaData);
         }
 
         public async Task<List<Book>> GetAllBooksAsync(bool trackChanges)
@@ -73,9 +79,16 @@ namespace Services
             return books;
         }
 
+        public async Task<IEnumerable<Book>> GetAllBooksWithDetailsAsync(bool trackChanges)
+        {
+            return await _manager
+                .Book
+                .GetAllBooksWithDetailsAsync(trackChanges);
+        }
+
         public async Task<BookDto> GetOneBookByIdAsync(int id, bool trackChanges)
         {
-            var book = await GetOneBookByIdAndCheckExists(id,trackChanges);
+            var book = await GetOneBookByIdAndCheckExists(id, trackChanges);
 
             if (book is null)
                 throw new BookNotFoundException(id);
@@ -114,7 +127,7 @@ namespace Services
         private async Task<Book> GetOneBookByIdAndCheckExists(int id, bool trackChanges)
         {
             var entity = await _manager.Book.GetOneBookByIdAsync(id, trackChanges);
-            
+
             if (entity is null)
                 throw new BookNotFoundException(id);
 

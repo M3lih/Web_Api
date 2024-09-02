@@ -1,0 +1,47 @@
+2024-09-03 00:31:47.1742 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T21:31:47.1499124Z"}
+2024-09-03 00:32:29.1620 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T21:32:29.1619622Z"}
+2024-09-03 00:33:07.6583 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T21:33:07.6577178Z"}
+2024-09-03 00:33:16.3236 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T21:33:16.3235494Z"}
+2024-09-03 00:33:28.9909 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"3","CreateAt":"2024-09-02T21:33:28.9907997Z"}
+2024-09-03 00:34:19.7025 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"3","CreateAt":"2024-09-02T21:34:19.7024353Z"}
+2024-09-03 00:35:58.8512 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooksWithDetails","Id":null,"CreateAt":"2024-09-02T21:35:58.8511737Z"}
+2024-09-03 00:36:11.5147 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T21:36:11.5146433Z"}
+2024-09-03 00:36:15.3356 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T21:36:15.3356035Z"}
+2024-09-03 00:36:20.0203 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T21:36:20.0203194Z"}
+2024-09-03 00:36:26.3039 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"99","CreateAt":"2024-09-02T21:36:26.3039689Z"}
+2024-09-03 00:36:26.5281 ERROR Something went wrong: Entities.Exceptions.BookNotFoundException: The book with id:99 could not found!
+   at Services.BookManager.GetOneBookByIdAndCheckExists(Int32 id, Boolean trackChanges) in D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Services\BookManager.cs:line 133
+   at Services.BookManager.GetOneBookByIdAsync(Int32 id, Boolean trackChanges) in D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Services\BookManager.cs:line 92
+   at Presentation.Controllers.BooksController.GetOneBookAsync(Int32 id) in D:\DOSYAM\KOD\NetCore\WebApi\basics\bsStoreApp\Presentation\Controllers\BooksController.cs:line 66
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 124
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-09-03 00:43:15.9156 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooksWithDetails","Id":null,"CreateAt":"2024-09-02T21:43:15.8927235Z"}
+2024-09-03 00:44:53.0757 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T21:44:53.0756402Z"}
+2024-09-03 00:45:33.7944 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T21:45:33.7943713Z"}
+2024-09-03 01:01:38.7384 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T22:01:38.7226413Z"}
+2024-09-03 01:03:42.8549 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T22:03:42.8422954Z"}
+2024-09-03 01:03:52.1047 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-09-02T22:03:52.1047001Z"}
+2024-09-03 01:03:58.2280 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-09-02T22:03:58.2280212Z"}
+2024-09-03 01:03:59.7669 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-09-02T22:03:59.7668903Z"}
+2024-09-03 01:04:01.1814 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-09-02T22:04:01.1814023Z"}
+2024-09-03 01:04:05.3178 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-09-02T22:04:05.3178233Z"}
+2024-09-03 01:04:06.2804 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-09-02T22:04:06.280394Z"}
+2024-09-03 01:04:07.1339 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-09-02T22:04:07.1339473Z"}
+2024-09-03 01:04:11.6151 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T22:04:11.615152Z"}
+2024-09-03 01:10:22.5136 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-09-02T22:10:22.5012041Z"}
